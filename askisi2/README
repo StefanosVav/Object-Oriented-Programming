@@ -1,4 +1,4 @@
-ΑΣΚΗΣΗ 2 - Α ΟΜΑΔΑ ΑΣΚΗΣΕΩΝ - ΒΑΒΟΥΛΑΣ ΣΤΕΦΑΝΟΣ - sdi1800014
+ΒΑΒΟΥΛΑΣ ΣΤΕΦΑΝΟΣ
 
 Εντολή μεταγλώττισης:
 g++ -o forum main.cpp forum.cpp thread.cpp post.cpp btree.cpp date.cpp
