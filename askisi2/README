@@ -1,8 +1,10 @@
 ΒΑΒΟΥΛΑΣ ΣΤΕΦΑΝΟΣ
 
-Εντολή μεταγλώττισης:
+Compile and Run:
 g++ -o forum main.cpp forum.cpp thread.cpp post.cpp btree.cpp date.cpp
 ./forum
+
+Using Object Oriented Programming to Create a Forum, giving the user the ability to see, add and remove Threads and Posts in it.
 
 Πληροφορίες:
 ((ΑΣΚ-1))
